@@ -1,4 +1,3 @@
-Solution
 name: Main workflow
 on: push
 jobs:
